@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1260px;
+  margin: 0 auto;
+}
+@import "navigate";
+@import "home";
